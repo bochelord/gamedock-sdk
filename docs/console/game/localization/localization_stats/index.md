@@ -32,7 +32,7 @@ To Publish a Language Locale:
 2. Click **ok** on the confirmation modal that follows
 
 ### Show Locale details
-1. Click on the action button **Info** ![info-sign](https://github.com/azerion/gamedock-sdk/raw/master/docs/console/_images/info-sign.png)
+1. Click on the action button **Info** ![info-sign](https://github.com/bochelord/gamedock-sdk/raw/master/docs/console/_images/info-sign.png)
 2. A popup will show details for the Locale published including a link to the actual translation JSON file
 
 ### Import Locale
