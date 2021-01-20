@@ -41,13 +41,11 @@ For importing a locale, you'll need to have the data in CSV file with the follow
 
 
 File example: 
-`localization_key, en_US, es_ES, Description, String Length`
-`ShopTitleText, Shop, Tienda, Title for the Shop, 25`
-`ShopCaptionText, Wonderful Shop, Maravillosa Tienda, Caption for the Shop Header Image, 50`
-`ShopButtonBuyText, Buy, Comprar, Buy button on the Shop, 25`
-.
-.
-.
+- row 0 : `localization_key, en_US, es_ES, Description, String Length`
+- row 1 :`ShopTitleText, Shop, Tienda, Title for the Shop, 25`
+- row 2 :`ShopCaptionText, Wonderful Shop, Maravillosa Tienda, Caption for the Shop Header Image, 50`
+- row 3 :`ShopButtonBuyText, Buy, Comprar, Buy button on the Shop, 25`
+- row 4 : etc...
 
 1. Click on the three vertical dots on the right top to reveal the **Import Localization** option and click it
 2. On the popup click **Select File** and select a .csv file
