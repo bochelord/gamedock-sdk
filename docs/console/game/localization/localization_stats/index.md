@@ -21,7 +21,7 @@ Selecting several rows will allow you to export and publish multiple locales at 
 
 
 ### View Translation Status
-The data table renders the listing of the Localization Values per Locale as **badge links** ![badge-link](https://github.com/azerion/gamedock-sdk/raw/master/docs/console/_images/badge-link.png) .
+The data table renders the listing of the Localization Values per Locale as **badge links** ![badge-link](https://github.com/bochelord/gamedock-sdk/raw/master/docs/console/_images/badge-link.png) .
 Clicking each link will show the Localization Values view for the row's Locale, filtered by the status clicked
 
 
@@ -46,13 +46,13 @@ Example: `ShopTitleText, en_US, es_ES, Title for the Shop, 25`
 4. You will need to refresh the page to view the changes on the table listing
 
 ### Export Locale
-1. Select, using the checkboxes ![checkbox](https://github.com/azerion/gamedock-sdk/raw/master/docs/console/_images/checkbox.png) on the left, the rows for each Locale you want to export
+1. Select, using the checkboxes ![checkbox](https://github.com/bochelord/gamedock-sdk/raw/master/docs/console/_images/checkbox.png) on the left, the rows for each Locale you want to export
 2. Click on the button **Export Selected Languages** that appears on the top when selecting rows
 3. Click **ok** on the confirmation modal that follows
 4. A .ZIP file containing one or several .CSV files (one .CSV per Locale selected for exporting) will be prompted to download. 
 
 ### Publish Several Locales
-1. Select, using the checkboxes ![checkbox](https://github.com/azerion/gamedock-sdk/raw/master/docs/console/_images/checkbox.png) on the left, the rows for each Locale you want to publish
+1. Select, using the checkboxes ![checkbox](https://github.com/bochelord/gamedock-sdk/raw/master/docs/console/_images/checkbox.png) on the left, the rows for each Locale you want to publish
 2. Click on the button **Publish selected** that appears on the top when selecting rows
 3. Click **ok** on the confirmation modal that follows
 
