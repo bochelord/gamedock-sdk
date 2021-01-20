@@ -57,4 +57,4 @@ Example: `ShopTitleText, en_US, es_ES, Title for the Shop, 25`
 3. Click **ok** on the confirmation modal that follows
 
 ### Unpublished Changes
-In case a Locale has an accepted value that has been changed but it is not published, it will be reflected here with a warning icon ![warning-sign](https://github.com/azerion/gamedock-sdk/raw/master/docs/console/_images/warning-sign.png). It is recommended to publish the Locale in order to see these changes reflected on the localization.
+In case a Locale has an accepted value that has been changed but it is not published, it will be reflected here with a warning icon ![warning-sign](https://github.com/bochelord/gamedock-sdk/raw/master/docs/console/_images/warning-sign.png). It is recommended to publish the Locale in order to see these changes reflected on the localization.
