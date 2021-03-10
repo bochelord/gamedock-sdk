@@ -31,7 +31,7 @@ To create a new User Role:
       - **Game Editor**: Editor role for selected game
       - **Game Viewer**: Viewer role for selected game
       - **Custom**: Custom permissions per section :
-          - Sections:
+          - **Sections**:
             - Game Options
             - Content
             - Monetization
@@ -41,7 +41,7 @@ To create a new User Role:
             - Corporate
             - Release Management
 
-        with two levels of access: 
+            with two levels of access: 
         - ***Viewer***, with only permission to view data
         - ***Editor***, that has permission to edit the data
 
